@@ -5,7 +5,7 @@ Introduction
 ------------
 
 This repository contains Python packages, modules and tools to help construct a
-minimal user interface for the Kobo Mini eReader based on the Linux kernel
+simple user interface for the Kobo Mini eReader based on the Linux kernel
 prepared by a Marek Gibek. See the following thread in the MobileRead forums
 and repository on GitHub:
 
@@ -34,7 +34,7 @@ Unless indicated otherwise, the contents of this package are licensed under the
 GNU General Public License version 3 (or later).
 
 ```
-Copyright (C) 2016 David Boddie <david@boddie.org.uk>
+Copyright (C) 2014 David Boddie <david@boddie.org.uk>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
